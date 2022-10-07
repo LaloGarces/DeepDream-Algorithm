@@ -18,4 +18,4 @@
 pip install numpy==1.19.5
 ```
 
-**Important:** At the end of the code in the part where we're going to use Deep Dream, you need to run this code to don't get en error at the moment of fit your image in the model. 
+**Important:** At the end of the code in the part where we're going to use Deep Dream, you need to run this code to don't get en error at the moment of fitting your image in the model. 
