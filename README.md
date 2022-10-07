@@ -10,3 +10,9 @@
 - So, I'm going to put in #comments the last part of the code where I run the algorithm, to be able to upload the colab here in Github.
 - Remember, just remove the #comments in the last part of the algorithm to run on your side. 
 - I'm including the original images if you want to run the model with the same images that I used. 
+
+## Install
+
+```
+pip install numpy==1.19.5
+```
