@@ -4,7 +4,7 @@
  
 ### I included some comments to understand what's happening under the hood; Hope you find usefull! 🙌
 
-#### Important points to mention
+### Important points to mention
 
 - The original file code is too heavy due I ran 7,000 steps with step_size = 0.001, to get a great Deep Dream style image 😅 :
 - So, I'm going to put in #comments the last part of the code where I run the algorithm, to be able to upload the colab here in Github.
