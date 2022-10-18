@@ -1,8 +1,8 @@
 # DeepDream-Algorithm
 
-## In this colab notebook, I use Tensorflow to experiment with AI Art, in specific with the Deep Dream Algorithm. Use it at you wish, try it with your own images! 🙂
+## In this colab notebook, I use TensorFlow to experiment with AI Art, in specific with the Deep Dream Algorithm. Use it as you wish, try it with your own images! 🙂
  
-### I included some comments to understand what's happening under the hood; Hope you find usefull! 🙌
+### I included some comments to understand what's happening under the hood; Hope you find it useful!  🙌
 
 #### Important points to mention
 
@@ -11,7 +11,7 @@
 - So, I'm going to put in #comments the last part of the code where I run the algorithm, to be able to upload the colab here in Github.
 - Remember, just remove the #comments in the last part of the algorithm to run on your side. 
 - I'm including the original images if you want to run the model with the same images that I used. 
-- The original images was developed by me with [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+- The original images were developed by me with [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
 ## Install
 
